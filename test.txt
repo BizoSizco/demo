@@ -1,0 +1,3173 @@
+بازم اسلایدر لود نشده  کنسول هم چیز خاصی نزده JQMIGRATE: Migrate is installed with logging active, version 3.1.0
+core.js:10 JQMIGRATE: jQuery.expr[':'] is deprecated; use jQuery.expr.pseudos
+i @ core.js:10
+get @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+get @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5
+core.js:10 JQMIGRATE: jQuery.fn.mouseup() event shorthand is deprecated
+i @ core.js:10
+(anonymous) @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+(anonymous) @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5
+core.js:10 JQMIGRATE: jQuery.fn.delegate() is deprecated
+i @ core.js:10
+delegate @ core.js:10
+f @ jquery-ui.min.js:8
+e @ jquery-ui.min.js:8
+(anonymous) @ jquery-ui.min.js:9
+(anonymous) @ jquery-ui.min.js:9Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+delegate @ core.js:10
+f @ jquery-ui.min.js:8
+e @ jquery-ui.min.js:8
+(anonymous) @ jquery-ui.min.js:9
+(anonymous) @ jquery-ui.min.js:9
+core.js:10 JQMIGRATE: 'ready' event is deprecated
+i @ core.js:10
+setup @ core.js:10
+add @ core.js:37
+(anonymous) @ core.js:10
+(anonymous) @ core.js:37
+each @ core.js:37
+each @ core.js:37
+qe @ core.js:37
+on @ core.js:37
+(anonymous) @ mailalerts.js:44Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+setup @ core.js:10
+add @ core.js:37
+(anonymous) @ core.js:10
+(anonymous) @ core.js:37
+each @ core.js:37
+each @ core.js:37
+qe @ core.js:37
+on @ core.js:37
+(anonymous) @ mailalerts.js:44
+core.js:10 JQMIGRATE: jQuery.fn.bind() is deprecated
+i @ core.js:10
+bind @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+each @ core.js:37
+_on @ jquery-ui.min.js:5
+_createWidget @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5
+each @ core.js:37
+each @ core.js:37
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ ps_searchbar.js:32
+u @ core.js:37
+(anonymous) @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+bind @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+each @ core.js:37
+_on @ jquery-ui.min.js:5
+_createWidget @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5
+each @ core.js:37
+each @ core.js:37
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ ps_searchbar.js:32
+u @ core.js:37
+(anonymous) @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37
+core.js:10 JQMIGRATE: jQuery.fn.resize() event shorthand is deprecated
+i @ core.js:10
+(anonymous) @ core.js:10
+(anonymous) @ ps_searchbar.js:50
+u @ core.js:37
+(anonymous) @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+(anonymous) @ core.js:10
+(anonymous) @ ps_searchbar.js:50
+u @ core.js:37
+(anonymous) @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37
+core.js:10 JQMIGRATE: jQuery.fn.click() event shorthand is deprecated
+i @ core.js:10
+(anonymous) @ core.js:10
+(anonymous) @ ps_searchbar.js:57
+u @ core.js:37
+(anonymous) @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+(anonymous) @ core.js:10
+(anonymous) @ ps_searchbar.js:57
+u @ core.js:37
+(anonymous) @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37
+core.js:10 JQMIGRATE: jQuery.fn.keyup() event shorthand is deprecated
+i @ core.js:10
+(anonymous) @ core.js:10
+(anonymous) @ ps_searchbar.js:62
+u @ core.js:37
+(anonymous) @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+(anonymous) @ core.js:10
+(anonymous) @ ps_searchbar.js:62
+u @ core.js:37
+(anonymous) @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37  فقط تصاویر زیر همه اومدن که روشون دکمه پلی هست و با کلیک هم اتفاقی نمیفته
+به نظر می‌رسه اسلایدر درست لود نشده. بیایید چند تغییر اساسی انجام بدیم:
+
+اول فایل slider.tpl رو چک کنیم:
+
+views/templates/hook/slider.tpl
+v74
+{if isset($sliders) && $sliders}
+<div class="bs-videoslider-container">
+    <div class="video-slider owl-carousel owl-theme">
+        {foreach from=$sliders item=slider}
+            <div class="item" data-fancybox href="{$slider.video_url|escape:'html':'UTF-8'}">
+در فایل front.js تغییر زیر رو اعمال کنید:
+
+views/js/front.js
+v206
+/**
+ * @author    BizoSizco <info@bizosiz.com>
+ * @copyright 2025 BizoSizco
+ * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License version 3.0
+ */
+در فایل front.css تغییرات زیر رو اعمال کنید:
+
+views/css/front.css
+v196
+.bs-videoslider-container {
+    margin: 20px 0;
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+در فایل bs_videoslider.php متد hookHeader رو به این شکل تغییر بدید:
+PHP
+public function hookHeader()
+{
+    // Only load assets if there are active sliders for current page
+    if (!$this->hasActiveSliderInCurrentPage()) {
+        return;
+    }
+
+    // Add CSS files
+    $this->context->controller->registerStylesheet(
+        'owl-carousel',
+        'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css',
+        ['media' => 'all', 'priority' => 150]
+    );
+    
+    $this->context->controller->registerStylesheet(
+        'owl-theme',
+        'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css',
+        ['media' => 'all', 'priority' => 151]
+    );
+    
+    $this->context->controller->registerStylesheet(
+        'fancybox',
+        'https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css',
+        ['media' => 'all', 'priority' => 152]
+    );
+    
+    $this->context->controller->registerStylesheet(
+        'bs-videoslider',
+        $this->_path.'views/css/front.css',
+        ['media' => 'all', 'priority' => 153]
+    );
+
+    // Add JavaScript files with absolute URLs
+    $this->context->controller->registerJavascript(
+        'owl-carousel',
+        'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js',
+        ['position' => 'bottom', 'priority' => 200]
+    );
+    
+    $this->context->controller->registerJavascript(
+        'fancybox',
+        'https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js',
+        ['position' => 'bottom', 'priority' => 201]
+    );
+}
+تغییرات اصلی:
+
+انتقال کد JavaScript به داخل template برای اطمینان از اجرا بعد از لود شدن DOM
+حذف فایل front.js برای جلوگیری از تداخل
+بهبود استایل‌ها برای نمایش بهتر
+اضافه کردن بررسی‌های بیشتر برای لود شدن کتابخانه‌ها
+پس از اعمال این تغییرات:
+
+کش پرستاشاپ رو پاک کنید
+مرورگر رو با Ctrl+F5 رفرش کنید
+کش مرورگر رو پاک کنید
+این تغییرات باید مشکل نمایش اسلایدر و عملکرد دکمه‌های پخش رو حل کنه.
+
+تغییری نکرد ارور کنسول  JQMIGRATE: Migrate is installed with logging active, version 3.1.0
+core.js:10 JQMIGRATE: jQuery.expr[':'] is deprecated; use jQuery.expr.pseudos
+i @ core.js:10
+get @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+get @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5
+core.js:10 JQMIGRATE: jQuery.fn.mouseup() event shorthand is deprecated
+i @ core.js:10
+e.each.e.fn.<computed> @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+e.each.e.fn.<computed> @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5
+core.js:10 JQMIGRATE: jQuery.fn.delegate() is deprecated
+i @ core.js:10
+delegate @ core.js:10
+f @ jquery-ui.min.js:8
+e @ jquery-ui.min.js:8
+(anonymous) @ jquery-ui.min.js:9
+(anonymous) @ jquery-ui.min.js:9Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+delegate @ core.js:10
+f @ jquery-ui.min.js:8
+e @ jquery-ui.min.js:8
+(anonymous) @ jquery-ui.min.js:9
+(anonymous) @ jquery-ui.min.js:9
+core.js:10 JQMIGRATE: 'ready' event is deprecated
+i @ core.js:10
+setup @ core.js:10
+add @ core.js:37
+e.event.add @ core.js:10
+(anonymous) @ core.js:37
+each @ core.js:37
+each @ core.js:37
+qe @ core.js:37
+on @ core.js:37
+(anonymous) @ mailalerts.js:44Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+setup @ core.js:10
+add @ core.js:37
+e.event.add @ core.js:10
+(anonymous) @ core.js:37
+each @ core.js:37
+each @ core.js:37
+qe @ core.js:37
+on @ core.js:37
+(anonymous) @ mailalerts.js:44
+core.js:10 JQMIGRATE: jQuery.fn.bind() is deprecated
+i @ core.js:10
+bind @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+each @ core.js:37
+_on @ jquery-ui.min.js:5
+_createWidget @ jquery-ui.min.js:5
+a.<computed>.<computed> @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5
+each @ core.js:37
+each @ core.js:37
+a.fn.<computed> @ jquery-ui.min.js:5
+(anonymous) @ ps_searchbar.js:32
+u @ core.js:37
+l @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+bind @ core.js:10
+(anonymous) @ jquery-ui.min.js:5
+each @ core.js:37
+_on @ jquery-ui.min.js:5
+_createWidget @ jquery-ui.min.js:5
+a.<computed>.<computed> @ jquery-ui.min.js:5
+(anonymous) @ jquery-ui.min.js:5
+each @ core.js:37
+each @ core.js:37
+a.fn.<computed> @ jquery-ui.min.js:5
+(anonymous) @ ps_searchbar.js:32
+u @ core.js:37
+l @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37
+core.js:10 JQMIGRATE: jQuery.fn.resize() event shorthand is deprecated
+i @ core.js:10
+e.each.e.fn.<computed> @ core.js:10
+(anonymous) @ ps_searchbar.js:50
+u @ core.js:37
+l @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+e.each.e.fn.<computed> @ core.js:10
+(anonymous) @ ps_searchbar.js:50
+u @ core.js:37
+l @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37
+core.js:10 JQMIGRATE: jQuery.fn.click() event shorthand is deprecated
+i @ core.js:10
+e.each.e.fn.<computed> @ core.js:10
+(anonymous) @ ps_searchbar.js:57
+u @ core.js:37
+l @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+e.each.e.fn.<computed> @ core.js:10
+(anonymous) @ ps_searchbar.js:57
+u @ core.js:37
+l @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37
+core.js:10 JQMIGRATE: jQuery.fn.keyup() event shorthand is deprecated
+i @ core.js:10
+e.each.e.fn.<computed> @ core.js:10
+(anonymous) @ ps_searchbar.js:62
+u @ core.js:37
+l @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37Understand this warningAI
+core.js:10 console.trace
+i @ core.js:10
+e.each.e.fn.<computed> @ core.js:10
+(anonymous) @ ps_searchbar.js:62
+u @ core.js:37
+l @ core.js:37
+setTimeout
+(anonymous) @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+fire @ core.js:37
+c @ core.js:37
+fireWith @ core.js:37
+ready @ core.js:37
+Q @ core.js:37  سورس مرورگر :  
+<!-- begin index.tpl -->
+
+ 
+
+
+<!doctype html>
+<html lang="fa-IR">
+
+  <head>
+    
+      
+  <meta charset="utf-8">
+
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+  <title>demops</title>
+  
+    
+<!-- begin modules/psxdesign/views/templates/hook/displayFontTags.tpl -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- end modules/psxdesign/views/templates/hook/displayFontTags.tpl -->
+
+  
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+        <link rel="canonical" href="https://ps.demo/">
+    
+      
+  
+  
+    <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name" : "demops",
+    "url" : "https://ps.demo/"
+         ,"logo": {
+        "@type": "ImageObject",
+        "url":"https://ps.demo/img/logo.png"
+      }
+      }
+</script>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "isPartOf": {
+      "@type": "WebSite",
+      "url":  "https://ps.demo/",
+      "name": "demops"
+    },
+    "name": "demops",
+    "url":  "https://ps.demo/"
+  }
+</script>
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url" : "https://ps.demo/",
+              "image": {
+          "@type": "ImageObject",
+          "url":"https://ps.demo/img/logo.png"
+        },
+            "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://ps.demo/search?search_query={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+  </script>
+
+  
+  
+  
+  
+  
+    
+  
+
+  
+    <meta property="og:title" content="demops" />
+    <meta property="og:description" content="" />
+    <meta property="og:url" content="https://ps.demo/" />
+    <meta property="og:site_name" content="demops" />
+    <meta property="og:type" content="website" />    
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <link rel="icon" type="image/vnd.microsoft.icon" href="https://ps.demo/img/favicon.ico?1324977642">
+  <link rel="shortcut icon" type="image/x-icon" href="https://ps.demo/img/favicon.ico?1324977642">
+
+
+
+    <link rel="stylesheet" href="https://ps.demo/themes/classic/assets/css/theme_rtl.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ps.demo/modules/blockreassurance/views/dist/front.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ps.demo/modules/ps_socialfollow/views/css/ps_socialfollow.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ps.demo/modules/ps_searchbar/ps_searchbar.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ps.demo/modules/productcomments/views/css/productcomments.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ps.demo/js/jquery/ui/themes/base/minified/jquery-ui.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ps.demo/js/jquery/ui/themes/base/minified/jquery.ui.theme.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ps.demo/modules/blockwishlist/public/wishlist.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ps.demo/modules/ps_imageslider/css/homeslider.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ps.demo/modules/bs_videoslider/views/css/front.css" type="text/css" media="all">
+
+
+
+
+  
+
+  <script type="text/javascript">
+        var blockwishlistController = "https:\/\/ps.demo\/module\/blockwishlist\/action";
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"\u0645\u062c\u0645\u0648\u0639","amount":0,"value":"\u200e\u0631\u06cc\u0627\u06440"},"total_including_tax":{"type":"total","label":"\u062c\u0645\u0639 (\u0628\u0627 \u0645\u0627\u0644\u06cc\u0627\u062a)","amount":0,"value":"\u200e\u0631\u06cc\u0627\u06440"},"total_excluding_tax":{"type":"total","label":"\u0647\u0632\u06cc\u0646\u0647 \u0646\u0647\u0627\u06cc\u06cc (\u0628\u062f\u0648\u0646 \u0645\u0627\u0644\u06cc\u0627\u062a)","amount":0,"value":"\u200e\u0631\u06cc\u0627\u06440"}},"subtotals":{"products":{"type":"products","label":"\u0631\u06cc\u0632 \u06a9\u0644","amount":0,"value":"\u200e\u0631\u06cc\u0627\u06440"},"discounts":null,"shipping":{"type":"shipping","label":"\u0627\u0631\u0633\u0627\u0644","amount":0,"value":""},"tax":null},"products_count":0,"summary_string":"0 \u0645\u0648\u0631\u062f","vouchers":{"allowed":0,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"id":1,"name":"\u0631\u06cc\u0627\u0644 \u0627\u06cc\u0631\u0627\u0646","iso_code":"IRR","iso_code_num":"364","sign":"\u0631\u06cc\u0627\u0644"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"country":{"id_zone":"3","id_currency":"0","call_prefix":"98","iso_code":"IR","active":"1","contains_states":"1","need_identification_number":"0","need_zip_code":"1","zip_code_format":"NNNNN-NNNNN","display_tax_label":"1","name":"\u0627\u06cc\u0631\u0627\u0646","id":111},"language":{"name":"\u067e\u0627\u0631\u0633\u06cc (Persian)","iso_code":"fa","locale":"fa-IR","language_code":"fa-ir","active":"1","is_rtl":"1","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":1},"page":{"title":"","canonical":"https:\/\/ps.demo\/","meta":{"title":"demops","description":"","keywords":"","robots":"index"},"page_name":"index","body_classes":{"lang-fa":true,"lang-rtl":true,"country-IR":true,"currency-IRR":true,"layout-full-width":true,"page-index":true,"tax-display-enabled":true,"page-customer-account":false},"admin_notifications":[],"password-policy":{"feedbacks":{"0":"\u0628\u0633\u06cc\u0627\u0631 \u0636\u0639\u06cc\u0641","1":"\u0636\u0639\u06cc\u0641","2":"\u0645\u062a\u0648\u0633\u0637","3":"\u0642\u0648\u06cc","4":"\u0628\u0633\u06cc\u0627\u0631 \u0642\u0648\u06cc","Straight rows of keys are easy to guess":"\u0631\u062f\u06cc\u0641\u200c\u0647\u0627\u06cc \u0645\u0633\u062a\u0642\u06cc\u0645 \u0627\u0632 \u06a9\u0644\u06cc\u062f\u0647\u0627 \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Short keyboard patterns are easy to guess":"\u0627\u0644\u06af\u0648\u0647\u0627\u06cc \u06a9\u0648\u062a\u0627\u0647 \u06a9\u06cc\u0628\u0648\u0631\u062f \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Use a longer keyboard pattern with more turns":"\u0627\u0632 \u0627\u0644\u06af\u0648\u06cc\u0647\u0627\u06cc \u0637\u0648\u0644\u0627\u0646\u06cc\u200c\u062a\u0631 \u06a9\u06cc\u0628\u0648\u0631\u062f \u0628\u0627 \u0686\u0631\u062e\u0634\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f","Repeats like \"aaa\" are easy to guess":"\u0639\u0628\u0627\u0631\u0627\u062a \u062a\u06a9\u0631\u0627\u0631\u06cc \u0645\u0627\u0646\u0646\u062f \u00abaaa\u00bb \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Repeats like \"abcabcabc\" are only slightly harder to guess than \"abc\"":"\u062d\u062f\u0633 \u0639\u0628\u0627\u0631\u0627\u062a \u062a\u06a9\u0631\u0627\u0631\u06cc \u0645\u0627\u0646\u0646\u062f \u00ababcabcabc\u00bb \u062a\u0646\u0647\u0627 \u06a9\u0645\u06cc \u0627\u0632 \u00ababc\u00bb \u0633\u062e\u062a\u200c\u062a\u0631 \u0647\u0633\u062a\u0646\u062f","Sequences like abc or 6543 are easy to guess":"\u062f\u0646\u0628\u0627\u0644\u0647\u200c\u0647\u0627\u06cc \u0645\u062b\u0644 abc \u06cc\u0627 6543 \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Recent years are easy to guess":"\u0633\u0627\u0644\u200c\u0647\u0627\u06cc \u0646\u0632\u062f\u06cc\u06a9 \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Dates are often easy to guess":"\u062a\u0627\u0631\u06cc\u062e\u200c\u0647\u0627 \u0627\u063a\u0644\u0628 \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","This is a top-10 common password":"\u0627\u06cc\u0646 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u062f\u0631 \u0644\u06cc\u0633\u062a \u06f1\u06f0 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0631\u0627\u06cc\u062c \u0627\u0633\u062a","This is a top-100 common password":"\u0627\u06cc\u0646 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u062f\u0631 \u0644\u06cc\u0633\u062a \u06f1\u06f0\u06f0 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0631\u0627\u06cc\u062c \u0627\u0633\u062a","This is a very common password":"\u0627\u06cc\u0646 \u06cc\u06a9 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0628\u0633\u06cc\u0627\u0631 \u0631\u0627\u06cc\u062c \u0627\u0633\u062a","This is similar to a commonly used password":"\u0627\u06cc\u0646 \u0634\u0628\u06cc\u0647 \u0628\u0647 \u06cc\u06a9 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0631\u0627\u06cc\u062c \u0627\u0633\u062a","A word by itself is easy to guess":"\u06cc\u06a9 \u06a9\u0644\u0645\u0647 \u0628\u0647 \u062a\u0646\u0647\u0627\u06cc\u06cc \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0627\u0633\u062a","Names and surnames by themselves are easy to guess":"\u0646\u0627\u0645 \u0648 \u0646\u0627\u0645\u200c\u062e\u0627\u0646\u0648\u062f\u0627\u06af\u06cc \u0628\u0647 \u062a\u0646\u0647\u0627\u06cc\u06cc \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Common names and surnames are easy to guess":"\u0646\u0627\u0645 \u0648 \u0646\u0627\u0645 \u062e\u0627\u0646\u0648\u0627\u062f\u06af\u06cc\u200c\u0647\u0627\u06cc \u0631\u0627\u06cc\u062c \u0628\u0647 \u0631\u0627\u062d\u062a\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0632\u062f\u0646 \u0627\u0633\u062a","Use a few words, avoid common phrases":"\u0686\u0646\u062f \u06a9\u0644\u0645\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f\u060c \u0627\u0632 \u0639\u0628\u0627\u0631\u0627\u062a \u0631\u0627\u06cc\u062c \u067e\u0631\u0647\u06cc\u0632 \u06a9\u0646\u06cc\u062f","No need for symbols, digits, or uppercase letters":"\u0646\u06cc\u0627\u0632\u06cc \u0628\u0647 \u0633\u0645\u0628\u0644\u060c \u0639\u062f\u062f \u06cc\u0627 \u062d\u0631\u0648\u0641 \u0628\u0632\u0631\u06af \u0646\u06cc\u0633\u062a","Avoid repeated words and characters":"\u0627\u0632 \u06a9\u0644\u0645\u0627\u062a \u0648 \u06a9\u0627\u0631\u06a9\u062a\u0631\u0647\u0627\u06cc \u062a\u06a9\u0631\u0627\u0631\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0646\u06a9\u0646\u06cc\u062f","Avoid sequences":"\u0627\u0632 \u062a\u0648\u0627\u0644\u06cc \u067e\u0631\u0647\u06cc\u0632 \u06a9\u0646\u06cc\u062f","Avoid recent years":"\u062f\u0648\u0631\u06cc \u06a9\u0631\u062f\u0646 \u0627\u0632 \u0633\u0627\u0644\u200c\u0647\u0627\u06cc \u0627\u062e\u06cc\u0631","Avoid years that are associated with you":"\u0627\u0632 \u0633\u0627\u0644\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0627 \u0634\u0645\u0627 \u0645\u0631\u062a\u0628\u0637 \u0627\u0633\u062a \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0646\u06a9\u0646\u06cc\u062f","Avoid dates and years that are associated with you":"\u0627\u0632 \u062a\u0627\u0631\u06cc\u062e\u200c\u0647\u0627 \u0648 \u0633\u0627\u0644\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0627 \u0634\u0645\u0627 \u0645\u0631\u062a\u0628\u0637 \u0627\u0633\u062a \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0646\u06a9\u0646\u06cc\u062f","Capitalization doesn't help very much":"\u062d\u0631\u0648\u0641 \u0628\u0632\u0631\u06af \u06a9\u0645\u06a9 \u062e\u0627\u0635\u06cc \u0646\u0645\u06cc\u200c\u06a9\u0646\u062f","All-uppercase is almost as easy to guess as all-lowercase":"\u0627\u06af\u0631 \u0647\u0645\u0647 \u062d\u0631\u0648\u0641 \u0628\u0632\u0631\u06af \u0628\u0627\u0634\u0646\u062f \u0628\u0647 \u0627\u0646\u062f\u0627\u0632\u0647 \u0632\u0645\u0627\u0646\u06cc \u06a9\u0647 \u0647\u0645\u0647 \u062d\u0631\u0648\u0641 \u06a9\u0648\u0686\u06a9 \u0628\u0627\u0634\u0646\u062f \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0627\u0633\u062a","Reversed words aren't much harder to guess":"\u062d\u062f\u0633 \u06a9\u0644\u0645\u0627\u062a \u0628\u0631\u0639\u06a9\u0633 \u0647\u0645 \u062e\u06cc\u0644\u06cc \u0633\u062e\u062a \u0646\u06cc\u0633\u062a","Predictable substitutions like '@' instead of 'a' don't help very much":"\u062c\u0627\u06cc\u06af\u0632\u06cc\u0646\u200c\u0647\u0627\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633\u06cc \u0645\u062b\u0644 \u00ab@\u00bb \u0628\u0647 \u062c\u0627\u06cc \u00aba\u00bb \u0647\u0645 \u06a9\u0645\u06a9 \u0632\u06cc\u0627\u062f\u06cc \u0646\u0645\u06cc\u200c\u06a9\u0646\u0646\u062f","Add another word or two. Uncommon words are better.":"\u06cc\u06a9 \u06cc\u0627 \u062f\u0648 \u06a9\u0644\u0645\u0647 \u062f\u06cc\u06af\u0631 \u0627\u0636\u0627\u0641\u0647 \u06a9\u0646\u06cc\u062f. \u06a9\u0644\u0645\u0627\u062a \u063a\u06cc\u0631 \u0645\u0639\u0645\u0648\u0644 \u0628\u0647\u062a\u0631\u0646\u062f."}}},"shop":{"name":"demops","logo":"https:\/\/ps.demo\/img\/logo.png","stores_icon":"https:\/\/ps.demo\/img\/logo_stores.png","favicon":"https:\/\/ps.demo\/img\/favicon.ico"},"core_js_public_path":"\/themes\/","urls":{"base_url":"https:\/\/ps.demo\/","current_url":"https:\/\/ps.demo\/","shop_domain_url":"https:\/\/ps.demo","img_ps_url":"https:\/\/ps.demo\/img\/","img_cat_url":"https:\/\/ps.demo\/img\/c\/","img_lang_url":"https:\/\/ps.demo\/img\/l\/","img_prod_url":"https:\/\/ps.demo\/img\/p\/","img_manu_url":"https:\/\/ps.demo\/img\/m\/","img_sup_url":"https:\/\/ps.demo\/img\/su\/","img_ship_url":"https:\/\/ps.demo\/img\/s\/","img_store_url":"https:\/\/ps.demo\/img\/st\/","img_col_url":"https:\/\/ps.demo\/img\/co\/","img_url":"https:\/\/ps.demo\/themes\/classic\/assets\/img\/","css_url":"https:\/\/ps.demo\/themes\/classic\/assets\/css\/","js_url":"https:\/\/ps.demo\/themes\/classic\/assets\/js\/","pic_url":"https:\/\/ps.demo\/upload\/","theme_assets":"https:\/\/ps.demo\/themes\/classic\/assets\/","theme_dir":"https:\/\/ps.demo\/themes\/classic\/","pages":{"address":"https:\/\/ps.demo\/address","addresses":"https:\/\/ps.demo\/addresses","authentication":"https:\/\/ps.demo\/login","manufacturer":"https:\/\/ps.demo\/\u0628\u0631\u0646\u062f\u0647\u0627","cart":"https:\/\/ps.demo\/cart","category":"https:\/\/ps.demo\/index.php?controller=category","cms":"https:\/\/ps.demo\/index.php?controller=cms","contact":"https:\/\/ps.demo\/contact-us","discount":"https:\/\/ps.demo\/discount","guest_tracking":"https:\/\/ps.demo\/guest-tracking","history":"https:\/\/ps.demo\/order-history","identity":"https:\/\/ps.demo\/identity","index":"https:\/\/ps.demo\/","my_account":"https:\/\/ps.demo\/my-account","order_confirmation":"https:\/\/ps.demo\/order-confirmation","order_detail":"https:\/\/ps.demo\/index.php?controller=order-detail","order_follow":"https:\/\/ps.demo\/order-follow","order":"https:\/\/ps.demo\/\u0633\u0641\u0627\u0631\u0634","order_return":"https:\/\/ps.demo\/index.php?controller=order-return","order_slip":"https:\/\/ps.demo\/order-slip","pagenotfound":"https:\/\/ps.demo\/page-not-found","password":"https:\/\/ps.demo\/password-recovery","pdf_invoice":"https:\/\/ps.demo\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/ps.demo\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/ps.demo\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/ps.demo\/prices-drop","product":"https:\/\/ps.demo\/index.php?controller=product","registration":"https:\/\/ps.demo\/\u062b\u0628\u062a \u0646\u0627\u0645","search":"https:\/\/ps.demo\/search","sitemap":"https:\/\/ps.demo\/\u0646\u0642\u0634\u0647 \u0633\u0627\u06cc\u062a","stores":"https:\/\/ps.demo\/stores","supplier":"https:\/\/ps.demo\/\u062a\u0627\u0645\u06cc\u0646\u200c\u06a9\u0646\u0646\u062f\u0647\u200c\u0647\u0627","new_products":"https:\/\/ps.demo\/new-products","brands":"https:\/\/ps.demo\/\u0628\u0631\u0646\u062f\u0647\u0627","register":"https:\/\/ps.demo\/\u062b\u0628\u062a \u0646\u0627\u0645","order_login":"https:\/\/ps.demo\/\u0633\u0641\u0627\u0631\u0634?login=1"},"alternative_langs":[],"actions":{"logout":"https:\/\/ps.demo\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/ps.demo\/img\/p\/fa-default-small_default.jpg","width":98,"height":98},"cart_default":{"url":"https:\/\/ps.demo\/img\/p\/fa-default-cart_default.jpg","width":125,"height":125},"home_default":{"url":"https:\/\/ps.demo\/img\/p\/fa-default-home_default.jpg","width":250,"height":250},"medium_default":{"url":"https:\/\/ps.demo\/img\/p\/fa-default-medium_default.jpg","width":452,"height":452},"large_default":{"url":"https:\/\/ps.demo\/img\/p\/fa-default-large_default.jpg","width":800,"height":800}},"small":{"url":"https:\/\/ps.demo\/img\/p\/fa-default-small_default.jpg","width":98,"height":98},"medium":{"url":"https:\/\/ps.demo\/img\/p\/fa-default-home_default.jpg","width":250,"height":250},"large":{"url":"https:\/\/ps.demo\/img\/p\/fa-default-large_default.jpg","width":800,"height":800},"legend":""}},"configuration":{"display_taxes_label":true,"display_prices_tax_incl":false,"is_catalog":false,"show_prices":true,"opt_in":{"partner":true},"quantity_discount":{"type":"discount","label":"\u062a\u062e\u0641\u06cc\u0641 \u0648\u0627\u062d\u062f"},"voucher_enabled":0,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"\u062e\u0627\u0646\u0647","url":"https:\/\/ps.demo\/"}],"count":1},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1740096380,"static_token":"103fe59a98d01470405200af8daeaa8e","token":"671458215120e7debcd5ad7d284b896b","debug":true};
+        var prestashopFacebookAjaxController = "https:\/\/ps.demo\/module\/ps_facebook\/Ajax";
+        var productsAlreadyTagged = [];
+        var psemailsubscription_subscription = "https:\/\/ps.demo\/module\/ps_emailsubscription\/subscription";
+        var psr_icon_color = "#F19D76";
+        var removeFromWishlistUrl = "https:\/\/ps.demo\/module\/blockwishlist\/action?action=deleteProductFromWishlist";
+        var wishlistAddProductToCartUrl = "https:\/\/ps.demo\/module\/blockwishlist\/action?action=addProductToCart";
+        var wishlistUrl = "https:\/\/ps.demo\/module\/blockwishlist\/view";
+      </script>
+
+
+
+  
+
+
+    
+  </head>
+
+  <body id="index" class="lang-fa lang-rtl country-ir currency-irr layout-full-width page-index tax-display-enabled">
+
+    
+      
+    
+
+    <main>
+      
+              
+
+      <header id="header">
+        
+          
+  <div class="header-banner">
+    
+  </div>
+
+
+
+  <nav class="header-nav">
+    <div class="container">
+      <div class="row">
+        <div class="hidden-sm-down">
+          <div class="col-md-5 col-xs-12">
+            
+<!-- begin module:ps_contactinfo/nav.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_contactinfo/nav.tpl --><div id="_desktop_contact_link">
+  <div id="contact-link">
+          <a href="https://ps.demo/contact-us">تماس با ما</a>
+      </div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_contactinfo/nav.tpl -->
+<!-- end module:ps_contactinfo/nav.tpl -->
+
+          </div>
+          <div class="col-md-7 right-nav">
+              
+<!-- begin module:ps_customersignin/ps_customersignin.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_customersignin/ps_customersignin.tpl --><div id="_desktop_user_info">
+  <div class="user-info">
+          <a
+        href="https://ps.demo/login?back=https%3A%2F%2Fps.demo%2F"
+        title="ورود به حساب کاربری"
+        rel="nofollow"
+      >
+        <i class="material-icons">&#xE7FF;</i>
+        <span class="hidden-sm-down">ورود به حساب</span>
+      </a>
+      </div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_customersignin/ps_customersignin.tpl -->
+<!-- end module:ps_customersignin/ps_customersignin.tpl -->
+
+<!-- begin module:ps_shoppingcart/ps_shoppingcart.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl --><div id="_desktop_cart">
+  <div class="blockcart cart-preview inactive" data-refresh-url="//ps.demo/module/ps_shoppingcart/ajax">
+    <div class="header">
+              <i class="material-icons shopping-cart" aria-hidden="true">shopping_cart</i>
+        <span class="hidden-sm-down">سبد خرید</span>
+        <span class="cart-products-count">(0)</span>
+          </div>
+  </div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl -->
+<!-- end module:ps_shoppingcart/ps_shoppingcart.tpl -->
+
+          </div>
+        </div>
+        <div class="hidden-md-up text-sm-center mobile">
+          <div class="float-xs-left" id="menu-icon">
+            <i class="material-icons d-inline">&#xE5D2;</i>
+          </div>
+          <div class="float-xs-right" id="_mobile_cart"></div>
+          <div class="float-xs-right" id="_mobile_user_info"></div>
+          <div class="top-logo" id="_mobile_logo"></div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+
+
+  <div class="header-top">
+    <div class="container">
+       <div class="row">
+        <div class="col-md-2 hidden-sm-down" id="_desktop_logo">
+                                    <h1>
+                
+  <a href="https://ps.demo/">
+    <img
+      class="logo img-fluid"
+      src="https://ps.demo/img/logo.png"
+      alt="demops"
+      width="100"
+      height="28">
+  </a>
+
+              </h1>
+                              </div>
+        <div class="header-top-right col-md-10 col-sm-12 position-static">
+          
+<!-- begin module:ps_mainmenu/ps_mainmenu.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_mainmenu/ps_mainmenu.tpl -->
+
+<div class="menu js-top-menu position-static hidden-sm-down" id="_desktop_top_menu">
+    
+          <ul class="top-menu" id="top-menu" data-depth="0">
+                    <li class="category" id="category-3">
+                          <a
+                class="dropdown-item"
+                href="https://ps.demo/3-clothes" data-depth="0"
+                              >
+                                                                      <span class="float-xs-right hidden-md-up">
+                    <span data-target="#top_sub_menu_6924" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add">&#xE313;</i>
+                      <i class="material-icons remove">&#xE316;</i>
+                    </span>
+                  </span>
+                                لباس ها
+              </a>
+                            <div  class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_6924">
+                
+          <ul class="top-menu"  data-depth="1">
+                    <li class="category" id="category-4">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="https://ps.demo/4-men" data-depth="1"
+                              >
+                                آقایان
+              </a>
+                          </li>
+                    <li class="category" id="category-5">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="https://ps.demo/5-women" data-depth="1"
+                              >
+                                خانم ها
+              </a>
+                          </li>
+              </ul>
+    
+              </div>
+                          </li>
+                    <li class="category" id="category-6">
+                          <a
+                class="dropdown-item"
+                href="https://ps.demo/6-accessories" data-depth="0"
+                              >
+                                                                      <span class="float-xs-right hidden-md-up">
+                    <span data-target="#top_sub_menu_21174" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add">&#xE313;</i>
+                      <i class="material-icons remove">&#xE316;</i>
+                    </span>
+                  </span>
+                                اکسسوری ها
+              </a>
+                            <div  class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_21174">
+                
+          <ul class="top-menu"  data-depth="1">
+                    <li class="category" id="category-7">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="https://ps.demo/7-stationery" data-depth="1"
+                              >
+                                نوشت افزار
+              </a>
+                          </li>
+                    <li class="category" id="category-8">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="https://ps.demo/8-home-accessories" data-depth="1"
+                              >
+                                ملزومات خانه
+              </a>
+                          </li>
+              </ul>
+    
+              </div>
+                          </li>
+                    <li class="category" id="category-9">
+                          <a
+                class="dropdown-item"
+                href="https://ps.demo/9-art" data-depth="0"
+                              >
+                                هنر
+              </a>
+                          </li>
+              </ul>
+    
+    <div class="clearfix"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_mainmenu/ps_mainmenu.tpl -->
+<!-- end module:ps_mainmenu/ps_mainmenu.tpl -->
+
+<!-- begin module:ps_searchbar/ps_searchbar.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/ps_searchbar/ps_searchbar.tpl -->
+<div id="search_widget" class="search-widgets" data-search-controller-url="//ps.demo/search">
+  <form method="get" action="//ps.demo/search">
+    <input type="hidden" name="controller" value="search">
+    <i class="material-icons search" aria-hidden="true">search</i>
+    <input type="text" name="s" value="" placeholder="کاتالوگ ما را جستجو کنید" aria-label="جستجو">
+    <i class="material-icons clear" aria-hidden="true">clear</i>
+  </form>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/ps_searchbar/ps_searchbar.tpl -->
+<!-- end module:ps_searchbar/ps_searchbar.tpl -->
+
+        </div>
+      </div>
+      <div id="mobile_top_menu_wrapper" class="row hidden-md-up" style="display:none;">
+        <div class="js-top-menu mobile" id="_mobile_top_menu"></div>
+        <div class="js-top-menu-bottom">
+          <div id="_mobile_currency_selector"></div>
+          <div id="_mobile_language_selector"></div>
+          <div id="_mobile_contact_link"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+        
+      </header>
+
+      <section id="wrapper">
+        
+          
+<aside id="notifications">
+  <div class="notifications-container container">
+    
+    
+    
+      </div>
+</aside>
+        
+
+        
+        <div class="container">
+          
+            <nav data-depth="1" class="breadcrumb">
+  <ol>
+    
+              
+          <li>
+                          <span>خانه</span>
+                      </li>
+        
+          
+  </ol>
+</nav>
+          
+
+          <div class="row">
+            
+
+            
+  <div id="content-wrapper" class="js-content-wrapper col-xs-12">
+    
+    
+
+  <section id="main">
+
+    
+      
+    
+
+    
+      <section id="content" class="page-home">
+        
+
+        
+          
+            
+<!-- begin module:ps_imageslider/views/templates/hook/slider.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
+  <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover" data-touch="true">
+    <ol class="carousel-indicators">
+            <li data-target="#carousel" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel" data-slide-to="1"></li>
+            <li data-target="#carousel" data-slide-to="2"></li>
+          </ol>
+    <ul class="carousel-inner" role="listbox" aria-label="کانتینر گردونه">
+              <li class="carousel-item active" role="option" aria-hidden="false">
+          <a href="https://www.prestashop-project.org">            <figure>
+              <img src="https://ps.demo/modules/ps_imageslider/images/sample-1_rtl.jpg" alt="sample-1" loading="lazy" width="1110" height="340">
+                              <figcaption class="caption">
+                  <h2 class="display-1 text-uppercase">Sample 1</h2>
+                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+                </figcaption>
+                          </figure>
+          </a>        </li>
+              <li class="carousel-item " role="option" aria-hidden="true">
+          <a href="https://www.prestashop-project.org">            <figure>
+              <img src="https://ps.demo/modules/ps_imageslider/images/sample-2_rtl.jpg" alt="sample-2" loading="lazy" width="1110" height="340">
+                              <figcaption class="caption">
+                  <h2 class="display-1 text-uppercase">Sample 2</h2>
+                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+                </figcaption>
+                          </figure>
+          </a>        </li>
+              <li class="carousel-item " role="option" aria-hidden="true">
+          <a href="https://www.prestashop-project.org">            <figure>
+              <img src="https://ps.demo/modules/ps_imageslider/images/sample-3_rtl.jpg" alt="sample-3" loading="lazy" width="1110" height="340">
+                              <figcaption class="caption">
+                  <h2 class="display-1 text-uppercase">Sample 3</h2>
+                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+                </figcaption>
+                          </figure>
+          </a>        </li>
+          </ul>
+    <div class="direction" aria-label="دکمه‌های گردونه">
+      <a class="left carousel-control" href="#carousel" role="button" data-slide="prev" aria-label="قبلی">
+        <span class="icon-prev hidden-xs" aria-hidden="true">
+          <i class="material-icons">&#xE5CB;</i>
+        </span>
+      </a>
+      <a class="right carousel-control" href="#carousel" role="button" data-slide="next" aria-label="بعدی">
+        <span class="icon-next" aria-hidden="true">
+          <i class="material-icons">&#xE5CC;</i>
+        </span>
+      </a>
+    </div>
+  </div>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
+<!-- end module:ps_imageslider/views/templates/hook/slider.tpl -->
+
+<!-- begin module:ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl --><section class="featured-products clearfix">
+  <h2 class="h2 products-section-title text-uppercase">
+    محصولات پرطرفدار
+  </h2>
+  
+<div class="products row">
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="1" data-id-product-attribute="1">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/men/1-1-hummingbird-printed-t-shirt.html#/1-andazh-s/8-rng-sfyd" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/1-home_default/hummingbird-printed-t-shirt.jpg"
+                  alt="تی شرت طرح زرین بال"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/1-large_default/hummingbird-printed-t-shirt.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                          <div class="variant-links">
+      <a href="https://ps.demo/men/1-3-hummingbird-printed-t-shirt.html#/2-andazh-m/8-rng-sfyd"
+       class="color"
+       title="سفید"
+       aria-label="سفید"
+       style="background-color: #ffffff"     ></a>
+      <a href="https://ps.demo/men/1-2-hummingbird-printed-t-shirt.html#/1-andazh-s/11-rng-mshky"
+       class="color"
+       title="مشکی"
+       aria-label="مشکی"
+       style="background-color: #434A54"     ></a>
+    <span class="js-count count"></span>
+</div>
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/men/1-1-hummingbird-printed-t-shirt.html#/1-andazh-s/8-rng-sfyd" content="https://ps.demo/men/1-1-hummingbird-printed-t-shirt.html#/1-andazh-s/8-rng-sfyd">تی شرت طرح زرین بال</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+                              
+
+                <span class="regular-price" aria-label="قیمت عادی">‎ریال24</span>
+                                  <span class="discount-percentage discount-product">‎−20%</span>
+                              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال19
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="1" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag discount">‎−20%</li>
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="9">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/women/2-9-brown-bear-printed-sweater.html#/1-andazh-s" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/21-home_default/brown-bear-printed-sweater.jpg"
+                  alt="ژاکت طرح خرس قهوه ای"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/21-large_default/brown-bear-printed-sweater.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/women/2-9-brown-bear-printed-sweater.html#/1-andazh-s" content="https://ps.demo/women/2-9-brown-bear-printed-sweater.html#/1-andazh-s">سویشرت طرح زرین بال</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+                              
+
+                <span class="regular-price" aria-label="قیمت عادی">‎ریال36</span>
+                                  <span class="discount-percentage discount-product">‎−20%</span>
+                              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال29
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="2" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag discount">‎−20%</li>
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="13">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/art/3-13-the-best-is-yet-to-come-framed-poster.html#/19-abʿad-40x60_santy_mtr" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/3-home_default/the-best-is-yet-to-come-framed-poster.jpg"
+                  alt="پوستر همراه با قاب بهترین ها در راهند"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/3-large_default/the-best-is-yet-to-come-framed-poster.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/art/3-13-the-best-is-yet-to-come-framed-poster.html#/19-abʿad-40x60_santy_mtr" content="https://ps.demo/art/3-13-the-best-is-yet-to-come-framed-poster.html#/19-abʿad-40x60_santy_mtr">پوستر همراه با قاب بهترین...</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال29
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="3" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="4" data-id-product-attribute="16">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/art/4-16-the-adventure-begins-framed-poster.html#/19-abʿad-40x60_santy_mtr" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/4-home_default/the-adventure-begins-framed-poster.jpg"
+                  alt="پوستر همراه با قاب شروع ماجراجویی"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/4-large_default/the-adventure-begins-framed-poster.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/art/4-16-the-adventure-begins-framed-poster.html#/19-abʿad-40x60_santy_mtr" content="https://ps.demo/art/4-16-the-adventure-begins-framed-poster.html#/19-abʿad-40x60_santy_mtr">پوستر همراه با قاب شروع...</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال29
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="4" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="5" data-id-product-attribute="19">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/art/5-19-today-is-a-good-day-framed-poster.html#/19-abʿad-40x60_santy_mtr" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/5-home_default/today-is-a-good-day-framed-poster.jpg"
+                  alt="پوستر همراه با قاب امروز یک روز خوب است"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/5-large_default/today-is-a-good-day-framed-poster.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/art/5-19-today-is-a-good-day-framed-poster.html#/19-abʿad-40x60_santy_mtr" content="https://ps.demo/art/5-19-today-is-a-good-day-framed-poster.html#/19-abʿad-40x60_santy_mtr">پوستر همراه با قاب امروز یک...</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال29
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="5" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/home-accessories/6-mug-the-best-is-yet-to-come.html" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/6-home_default/mug-the-best-is-yet-to-come.jpg"
+                  alt="ماگ بهترین ها در راهند"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/6-large_default/mug-the-best-is-yet-to-come.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/home-accessories/6-mug-the-best-is-yet-to-come.html" content="https://ps.demo/home-accessories/6-mug-the-best-is-yet-to-come.html">ماگ بهترین ها در راهند</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال12
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="6" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="7" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/home-accessories/7-mug-the-adventure-begins.html" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/7-home_default/mug-the-adventure-begins.jpg"
+                  alt="ماگ آغاز ماجراجویی"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/7-large_default/mug-the-adventure-begins.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/home-accessories/7-mug-the-adventure-begins.html" content="https://ps.demo/home-accessories/7-mug-the-adventure-begins.html">ماگ آغاز ماجراجویی</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال12
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="7" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="8" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/home-accessories/8-mug-today-is-a-good-day.html" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/8-home_default/mug-today-is-a-good-day.jpg"
+                  alt="ماگ امروز یک روز خوب است"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/8-large_default/mug-today-is-a-good-day.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/home-accessories/8-mug-today-is-a-good-day.html" content="https://ps.demo/home-accessories/8-mug-today-is-a-good-day.html">ماگ امروز یک روز خوب است</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال12
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="8" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+    </div>
+  <a class="all-product-link float-xs-left float-md-right h4" href="https://ps.demo/2-khanh">
+    همه‌ی محصولات<i class="material-icons">&#xE315;</i>
+  </a>
+</section>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl -->
+<!-- end module:ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl -->
+
+<!-- begin module:ps_banner/ps_banner.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_banner/ps_banner.tpl --><a class="banner" href="https://ps.demo/" title="">
+      <img src="https://ps.demo/modules/ps_banner/img/sale70.png" alt="" title="" class="img-fluid" loading="lazy" width="1110" height="213">
+  </a>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_banner/ps_banner.tpl -->
+<!-- end module:ps_banner/ps_banner.tpl -->
+
+<!-- begin module:ps_customtext/ps_customtext.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/ps_customtext/ps_customtext.tpl -->
+<div id="custom-text">
+  <h2>Custom Text Block</h2>
+<p><strong class="dark">Lorem ipsum dolor sit amet conse ctetu</strong></p>
+<p>Sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/ps_customtext/ps_customtext.tpl -->
+<!-- end module:ps_customtext/ps_customtext.tpl -->
+
+<!-- begin module:ps_specials/views/templates/hook/ps_specials.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_specials/views/templates/hook/ps_specials.tpl -->
+<section class="featured-products clearfix mt-3">
+  <h2 class="h2 products-section-title text-uppercase">
+    فروش ویژه
+  </h2>
+  
+<div class="products">
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="9">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/women/2-9-brown-bear-printed-sweater.html#/1-andazh-s" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/21-home_default/brown-bear-printed-sweater.jpg"
+                  alt="ژاکت طرح خرس قهوه ای"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/21-large_default/brown-bear-printed-sweater.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/women/2-9-brown-bear-printed-sweater.html#/1-andazh-s" content="https://ps.demo/women/2-9-brown-bear-printed-sweater.html#/1-andazh-s">سویشرت طرح زرین بال</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+                              
+
+                <span class="regular-price" aria-label="قیمت عادی">‎ریال36</span>
+                                  <span class="discount-percentage discount-product">‎−20%</span>
+                              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال29
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="2" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag discount">‎−20%</li>
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="1" data-id-product-attribute="1">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/men/1-1-hummingbird-printed-t-shirt.html#/1-andazh-s/8-rng-sfyd" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/1-home_default/hummingbird-printed-t-shirt.jpg"
+                  alt="تی شرت طرح زرین بال"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/1-large_default/hummingbird-printed-t-shirt.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                          <div class="variant-links">
+      <a href="https://ps.demo/men/1-3-hummingbird-printed-t-shirt.html#/2-andazh-m/8-rng-sfyd"
+       class="color"
+       title="سفید"
+       aria-label="سفید"
+       style="background-color: #ffffff"     ></a>
+      <a href="https://ps.demo/men/1-2-hummingbird-printed-t-shirt.html#/1-andazh-s/11-rng-mshky"
+       class="color"
+       title="مشکی"
+       aria-label="مشکی"
+       style="background-color: #434A54"     ></a>
+    <span class="js-count count"></span>
+</div>
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/men/1-1-hummingbird-printed-t-shirt.html#/1-andazh-s/8-rng-sfyd" content="https://ps.demo/men/1-1-hummingbird-printed-t-shirt.html#/1-andazh-s/8-rng-sfyd">تی شرت طرح زرین بال</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+                              
+
+                <span class="regular-price" aria-label="قیمت عادی">‎ریال24</span>
+                                  <span class="discount-percentage discount-product">‎−20%</span>
+                              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال19
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="1" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag discount">‎−20%</li>
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+    </div>
+  <a class="all-product-link float-xs-left float-md-right h4" href="https://ps.demo/prices-drop">
+    همه محصولات فروش ویژه<i class="material-icons">&#xE315;</i>
+  </a>
+</section>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_specials/views/templates/hook/ps_specials.tpl -->
+<!-- end module:ps_specials/views/templates/hook/ps_specials.tpl -->
+
+<!-- begin module:ps_newproducts/views/templates/hook/ps_newproducts.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_newproducts/views/templates/hook/ps_newproducts.tpl -->
+<section class="featured-products clearfix mt-3">
+  <h2 class="h2 products-section-title text-uppercase">
+    محصولات جدید
+  </h2>
+  
+<div class="products">
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="19" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/home-accessories/19-customizable-mug.html" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/22-home_default/customizable-mug.jpg"
+                  alt="ماگ قابل شخصی سازی"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/22-large_default/customizable-mug.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/home-accessories/19-customizable-mug.html" content="https://ps.demo/home-accessories/19-customizable-mug.html">ماگ قابل شخصی سازی</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال14
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="19" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="18" data-id-product-attribute="36">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/stationery/18-36-hummingbird-notebook.html#/22-nwʿ_kaghdh-ykdst" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/20-home_default/hummingbird-notebook.jpg"
+                  alt="دفترچه یادداشت روباه کوهستانی"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/20-large_default/hummingbird-notebook.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/stationery/18-36-hummingbird-notebook.html#/22-nwʿ_kaghdh-ykdst" content="https://ps.demo/stationery/18-36-hummingbird-notebook.html#/22-nwʿ_kaghdh-ykdst">دفترچه یادداشت زرین بال</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال13
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="18" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="17" data-id-product-attribute="32">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/stationery/17-32-brown-bear-notebook.html#/22-nwʿ_kaghdh-ykdst" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/19-home_default/brown-bear-notebook.jpg"
+                  alt="دفترچه یادداشت روباه کوهستانی"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/19-large_default/brown-bear-notebook.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/stationery/17-32-brown-bear-notebook.html#/22-nwʿ_kaghdh-ykdst" content="https://ps.demo/stationery/17-32-brown-bear-notebook.html#/22-nwʿ_kaghdh-ykdst">دفترچه یادداشت خرس قهوه ای</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال13
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="17" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="16" data-id-product-attribute="28">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/stationery/16-28-mountain-fox-notebook.html#/22-nwʿ_kaghdh-ykdst" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/18-home_default/mountain-fox-notebook.jpg"
+                  alt="دفترچه یادداشت روباه کوهستانی"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/18-large_default/mountain-fox-notebook.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/stationery/16-28-mountain-fox-notebook.html#/22-nwʿ_kaghdh-ykdst" content="https://ps.demo/stationery/16-28-mountain-fox-notebook.html#/22-nwʿ_kaghdh-ykdst">دفترچه یادداشت روباه کوهستانی</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال13
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="16" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="15" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/home-accessories/15-pack-mug-framed-poster.html" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/23-home_default/pack-mug-framed-poster.jpg"
+                  alt="پک ماگ + پوستر همراه با قاب"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/23-large_default/pack-mug-framed-poster.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/home-accessories/15-pack-mug-framed-poster.html" content="https://ps.demo/home-accessories/15-pack-mug-framed-poster.html">پک ماگ + پوستر همراه با قاب</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال35
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="15" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+                    <li class="product-flag pack">بسته</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="14" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/art/14-hummingbird-vector-graphics.html" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/17-home_default/hummingbird-vector-graphics.jpg"
+                  alt="گرافیک وکتور - زرین بال"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/17-large_default/hummingbird-vector-graphics.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/art/14-hummingbird-vector-graphics.html" content="https://ps.demo/art/14-hummingbird-vector-graphics.html">گرافیک وکتور - زرین بال</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال9
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="14" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="13" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/art/13-brown-bear-vector-graphics.html" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/16-home_default/brown-bear-vector-graphics.jpg"
+                  alt="گرافیک وکتور - خرس قهوه ای"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/16-large_default/brown-bear-vector-graphics.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/art/13-brown-bear-vector-graphics.html" content="https://ps.demo/art/13-brown-bear-vector-graphics.html">گرافیک وکتور - خرس قهوه ای</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال9
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="13" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="12" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://ps.demo/art/12-mountain-fox-vector-graphics.html" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://ps.demo/15-home_default/mountain-fox-vector-graphics.jpg"
+                  alt="گرافیک وکتور - روباه کوهستانی"
+                  loading="lazy"
+                  data-full-size-image-url="https://ps.demo/15-large_default/mountain-fox-vector-graphics.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> نمایش سریع
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="https://ps.demo/art/12-mountain-fox-vector-graphics.html" content="https://ps.demo/art/12-mountain-fox-vector-graphics.html">گرافیک وکتور - روباه کوهستانی</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="قیمت">
+                                                  ‎ریال9
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<!-- begin module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+<div class="product-list-reviews" data-id="12" data-url="https://ps.demo/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
+<!-- end module:productcomments/views/templates/hook/product-list-reviews.tpl -->
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">جدید</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+    </div>
+  <a class="all-product-link float-xs-left float-md-right h4" href="https://ps.demo/new-products">
+    همه محصولات جدید<i class="material-icons">&#xE315;</i>
+  </a>
+</section>
+
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_newproducts/views/templates/hook/ps_newproducts.tpl -->
+<!-- end module:ps_newproducts/views/templates/hook/ps_newproducts.tpl -->
+
+<!-- begin modules/bs_videoslider/views/templates/hook/slider.tpl -->
+<div class="bs-videoslider-container">
+    <div class="video-slider owl-carousel owl-theme">
+                    <div class="item" data-fancybox href="https://dl.rastegarsanat.com/videos/TarazLeizeri.mp4">
+                <img src="/modules/bs_videoslider/views/img/video_1_a22c8b8d891a99a9f8a4db7819f7223d.jpg" alt="direct" class="thumbnail">
+                <div class="play-icon">▶</div>
+                                    <h3 class="video-title">direct</h3>
+                            </div>
+                    <div class="item" data-fancybox href="&lt;div id=&quot;19885250574&quot;&gt;&lt;script type=&quot;text/JavaScript&quot; src=&quot;https://www.aparat.com/embed/yuk8j09?data[rnddiv]=19885250574&amp;data[responsive]=yes&quot;&gt;&lt;/script&gt;&lt;/div&gt;">
+                <img src="/modules/bs_videoslider/views/img/video_1_40b14117eaf5e5733263e58ed251db91.jpg" alt="aparat s" class="thumbnail">
+                <div class="play-icon">▶</div>
+                                    <h3 class="video-title">aparat s</h3>
+                            </div>
+                    <div class="item" data-fancybox href="https://www.aparat.com/v/yuk8j09">
+                <img src="/modules/bs_videoslider/views/img/video_1_410a856f8cceaff0f76fb95aa9dcbe85.jpg" alt="aparat ifr" class="thumbnail">
+                <div class="play-icon">▶</div>
+                                    <h3 class="video-title">aparat ifr</h3>
+                            </div>
+            </div>
+</div>
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+        if (typeof jQuery !== 'undefined') {
+            jQuery(document).ready(function($) {
+                if (typeof $.fn.owlCarousel !== 'undefined') {
+                    $('.video-slider').owlCarousel({
+                        loop: true,
+                        margin: 10,
+                        nav: true,
+                        dots: false,
+                        navText: ['<span>‹</span>', '<span>›</span>'],
+                        responsive: {
+                            0: { items: 1 },
+                            600: { items: 3 },
+                            1000: { items: 4 }
+                        }
+                    });
+                }
+
+                if (typeof $.fn.fancybox !== 'undefined') {
+                    $('[data-fancybox]').fancybox({
+                        type: 'iframe',
+                        iframe: {
+                            preload: false
+                        }
+                    });
+                }
+
+                // Prevent Owl Carousel touch events from interfering with clicks
+                $('.video-slider .item').on('click', function(e) {
+                    if ($(e.target).closest('.play-icon').length) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        $(this).trigger('click');
+                    }
+                });
+            });
+        }
+    });
+</script>
+
+<!-- end modules/bs_videoslider/views/templates/hook/slider.tpl -->
+
+          
+        
+      </section>
+    
+
+    
+      <footer class="page-footer">
+        
+          <!-- Footer content -->
+        
+      </footer>
+    
+
+  </section>
+
+
+    
+  </div>
+
+
+            
+          </div>
+        </div>
+        
+      </section>
+
+      <footer id="footer" class="js-footer">
+        
+          <div class="container">
+  <div class="row">
+    
+      
+<!-- begin module:ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
+<div class="block_newsletter col-lg-8 col-md-12 col-sm-12" id="blockEmailSubscription_displayFooterBefore">
+  <div class="row">
+    <p id="block-newsletter-label" class="col-md-5 col-xs-12">دریافت آخرین اخبار و فروش ویژه‌ها</p>
+    <div class="col-md-7 col-xs-12">
+      <form action="https://ps.demo/#blockEmailSubscription_displayFooterBefore" method="post">
+        <div class="row">
+          <div class="col-xs-12">
+            <input
+              class="btn btn-primary float-xs-right hidden-xs-down"
+              name="submitNewsletter"
+              type="submit"
+              value="مشترک شدن"
+            >
+            <input
+              class="btn btn-primary float-xs-right hidden-sm-up"
+              name="submitNewsletter"
+              type="submit"
+              value="تاييد"
+            >
+            <div class="input-wrapper">
+              <input
+                name="email"
+                type="email"
+                value=""
+                placeholder="ایمیل شما"
+                aria-labelledby="block-newsletter-label"
+                required
+              >
+            </div>
+            <input type="hidden" name="blockHookName" value="displayFooterBefore" />
+            <input type="hidden" name="action" value="0">
+            <div class="clearfix"></div>
+          </div>
+          <div class="col-xs-12">
+                              <p>شما در هر زمانی می‌توانید اشتراک‌تان را لغو کنید. برای این کار، لطفاً اطلاعات تماس ما را در اطلاعات حقوقی بیابید.</p>
+                                          
+                              
+                        </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
+<!-- end module:ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
+
+<!-- begin module:ps_socialfollow/ps_socialfollow.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->
+
+  <div class="block-social col-lg-4 col-md-12 col-sm-12">
+    <ul>
+          </ul>
+  </div>
+
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->
+<!-- end module:ps_socialfollow/ps_socialfollow.tpl -->
+
+    
+  </div>
+</div>
+<div class="footer-container">
+  <div class="container">
+    <div class="row">
+      
+        
+<!-- begin module:ps_linklist/views/templates/hook/linkblock.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_linklist/views/templates/hook/linkblock.tpl --><div class="col-md-6 links">
+  <div class="row">
+      <div class="col-md-6 wrapper">
+      <p class="h3 hidden-sm-down">محصول‌ها</p>
+      <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_1" data-toggle="collapse">
+        <span class="h3">محصول‌ها</span>
+        <span class="float-xs-right">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add">&#xE313;</i>
+            <i class="material-icons remove">&#xE316;</i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_1" class="collapse">
+                  <li>
+            <a
+                id="link-product-page-prices-drop-1"
+                class="cms-page-link"
+                href="https://ps.demo/prices-drop"
+                title="محصولات ویژه ما"
+                            >
+              کاهش قیمت‌ها
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-new-products-1"
+                class="cms-page-link"
+                href="https://ps.demo/new-products"
+                title="جدیدترین محصولات ما"
+                            >
+              محصولات جدید
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-best-sales-1"
+                class="cms-page-link"
+                href="https://ps.demo/پرفروش‌ترین‌ها"
+                title="پرفروش ترین محصولات ما"
+                            >
+              پرفروش‌ترین‌ها
+            </a>
+          </li>
+              </ul>
+    </div>
+      <div class="col-md-6 wrapper">
+      <p class="h3 hidden-sm-down">شرکت ما</p>
+      <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_2" data-toggle="collapse">
+        <span class="h3">شرکت ما</span>
+        <span class="float-xs-right">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add">&#xE313;</i>
+            <i class="material-icons remove">&#xE316;</i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_2" class="collapse">
+                  <li>
+            <a
+                id="link-cms-page-1-2"
+                class="cms-page-link"
+                href="https://ps.demo/content/1-delivery"
+                title="شرایط و ضوابط ارسال"
+                            >
+              ارسال
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-2-2"
+                class="cms-page-link"
+                href="https://ps.demo/content/2-legal-notice"
+                title="نکات حقوقی"
+                            >
+              نکات حقوقی
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-3-2"
+                class="cms-page-link"
+                href="https://ps.demo/content/3-terms-and-conditions-of-use"
+                title="شرایط و ضوابط استفاده ما"
+                            >
+              شرایط و ضوابط استفاده
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-4-2"
+                class="cms-page-link"
+                href="https://ps.demo/content/4-about-us"
+                title="درباره‌ی ما بیشتر بدانید"
+                            >
+              درباره‌ی ما
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-5-2"
+                class="cms-page-link"
+                href="https://ps.demo/content/5-secure-payment"
+                title="پرداخت امن ما چیست"
+                            >
+              پرداخت امن
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-contact-2"
+                class="cms-page-link"
+                href="https://ps.demo/contact-us"
+                title="برای ارتباط با ما از این فرم استفاده کنید"
+                            >
+              تماس با ما
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-sitemap-2"
+                class="cms-page-link"
+                href="https://ps.demo/نقشه سایت"
+                title="گمشده اید؟ آنچه را که به دنبالش هستید پیدا کنید"
+                            >
+              نقشه سایت
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-stores-2"
+                class="cms-page-link"
+                href="https://ps.demo/stores"
+                title=""
+                            >
+              فروشگاه‌ها
+            </a>
+          </li>
+              </ul>
+    </div>
+    </div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_linklist/views/templates/hook/linkblock.tpl -->
+<!-- end module:ps_linklist/views/templates/hook/linkblock.tpl -->
+
+<!-- begin module:ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+<div id="block_myaccount_infos" class="col-md-3 links wrapper">
+  <p class="h3 myaccount-title hidden-sm-down">
+    <a class="text-uppercase" href="https://ps.demo/my-account" rel="nofollow">
+      حساب کاربری شما
+    </a>
+  </p>
+  <div class="title clearfix hidden-md-up" data-target="#footer_account_list" data-toggle="collapse">
+    <span class="h3">حساب کاربری شما</span>
+    <span class="float-xs-right">
+      <span class="navbar-toggler collapse-icons">
+        <i class="material-icons add">&#xE313;</i>
+        <i class="material-icons remove">&#xE316;</i>
+      </span>
+    </span>
+  </div>
+  <ul class="account-list collapse" id="footer_account_list">
+            <li><a href="https://ps.demo/guest-tracking" title="رهگیری سفارش" rel="nofollow">رهگیری سفارش</a></li>
+        <li><a href="https://ps.demo/my-account" title="ورود به حساب کاربری" rel="nofollow">ورود به حساب</a></li>
+        <li><a href="https://ps.demo/ثبت نام" title="ایجاد حساب‌کاربری" rel="nofollow">ایجاد حساب‌کاربری</a></li>
+        
+<!-- begin module:blockwishlist/views/templates/hook/account/myaccount-block.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/hook/account/myaccount-block.tpl -->
+<!-- end C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/hook/account/myaccount-block.tpl -->
+<!-- end module:blockwishlist/views/templates/hook/account/myaccount-block.tpl -->
+
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_emailalerts/views/templates/hook/my-account-footer.tpl -->
+<li>
+  <a href="//ps.demo/module/ps_emailalerts/account" title="اعلان‌های من">
+    اعلان‌های من
+  </a>
+</li>
+
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_emailalerts/views/templates/hook/my-account-footer.tpl -->
+
+       
+	</ul>
+</div>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+<!-- end module:ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+
+<!-- begin module:ps_contactinfo/ps_contactinfo.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl -->
+<div class="block-contact col-md-3 links wrapper">
+  <div class="title clearfix hidden-md-up" data-target="#contact-infos" data-toggle="collapse">
+    <span class="h3">اطلاعات فروشگاه</span>
+    <span class="float-xs-right">
+      <span class="navbar-toggler collapse-icons">
+        <i class="material-icons add">keyboard_arrow_down</i>
+        <i class="material-icons remove">keyboard_arrow_up</i>
+      </span>
+    </span>
+  </div>
+
+  <p class="h4 text-uppercase block-contact-title hidden-sm-down">اطلاعات فروشگاه</p>
+  <div id="contact-infos" class="collapse">
+    demops<br />ایران
+                  <br>
+        به ما ایمیل بزنید:
+        <script type="text/javascript">document.write(unescape('%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%69%6e%66%6f%40%62%69%7a%6f%73%69%7a%2e%63%6f%6d%22%20%3e%69%6e%66%6f%40%62%69%7a%6f%73%69%7a%2e%63%6f%6d%3c%2f%61%3e'))</script>
+      </div>
+</div>
+<!-- end C:\MAMP\htdocs\ps/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl -->
+<!-- end module:ps_contactinfo/ps_contactinfo.tpl -->
+
+<!-- begin module:blockwishlist/views/templates/hook/displayHeader.tpl -->
+<!-- begin C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/hook/displayHeader.tpl -->
+  <!-- begin C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/components/modals/add-to-wishlist.tpl -->
+<div
+  class="wishlist-add-to"
+  data-url="https://ps.demo/module/blockwishlist/action?action=getAllWishlist"
+>
+  <div
+    class="wishlist-modal modal fade"
+    
+      :class="{show: !isHidden}"
+    
+    tabindex="-1"
+    role="dialog"
+    aria-modal="true"
+  >
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">
+            لیست علاقمندیهای شما
+          </h5>
+          <button
+            type="button"
+            class="close"
+            @click="toggleModal"
+            data-dismiss="modal"
+            aria-label="Close"
+          >
+            <span aria-hidden="true">×</span>
+          </button>
+        </div>
+
+        <div class="modal-body">
+          <choose-list
+            @hide="toggleModal"
+            :product-id="productId"
+            :product-attribute-id="productAttributeId"
+            :quantity="quantity"
+            url="https://ps.demo/module/blockwishlist/action?action=getAllWishlist"
+            add-url="https://ps.demo/module/blockwishlist/action?action=addProductToWishlist"
+            empty-text="لیستی پیدا نشد."
+          ></choose-list>
+        </div>
+
+        <div class="modal-footer">
+          <a @click="openNewWishlistModal" class="wishlist-add-to-new text-primary">
+            <i class="material-icons">add_circle_outline</i> ایجاد لیست جدید
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div
+    class="modal-backdrop fade"
+    
+      :class="{in: !isHidden}"
+    
+  >
+  </div>
+</div>
+
+
+<!-- end C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/components/modals/add-to-wishlist.tpl -->  <!-- begin C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/components/modals/delete.tpl -->
+<div
+  class="wishlist-delete"
+      data-delete-list-url="https://ps.demo/module/blockwishlist/action?action=deleteWishlist"
+        data-delete-product-url="https://ps.demo/module/blockwishlist/action?action=deleteProductFromWishlist"
+    data-title="محصول را از لیست علاقه‌مندی‌های من حذف کن"
+  data-title-list="حذف لیست علاقمندی‌ها"
+  data-placeholder='محصول از %nameofthewishlist% حذف خواهد شد'
+  data-cancel-text="انصراف"
+  data-delete-text="حذف"
+  data-delete-text-list="حذف"
+>
+  <div
+    class="wishlist-modal modal fade"
+    
+      :class="{show: !isHidden}"
+    
+    tabindex="-1"
+    role="dialog"
+    aria-modal="true"
+  >
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">((modalTitle))</h5>
+          <button
+            type="button"
+            class="close"
+            @click="toggleModal"
+            data-dismiss="modal"
+            aria-label="Close"
+          >
+            <span aria-hidden="true">×</span>
+          </button>
+        </div>
+        <div class="modal-body" v-if="productId">
+          <p class="modal-text">((confirmMessage))</p> 
+        </div>
+        <div class="modal-footer">
+          <button
+            type="button"
+            class="modal-cancel btn btn-secondary"
+            data-dismiss="modal"
+            @click="toggleModal"
+          >
+            ((cancelText))
+          </button>
+
+          <button
+            type="button"
+            class="btn btn-primary"
+            @click="deleteWishlist"
+          >
+            ((modalDeleteText))
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div 
+    class="modal-backdrop fade"
+    
+      :class="{in: !isHidden}"
+    
+  >
+  </div>
+</div>
+
+<!-- end C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/components/modals/delete.tpl -->  <!-- begin C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/components/modals/create.tpl -->
+<div
+  class="wishlist-create"
+  data-url="https://ps.demo/module/blockwishlist/action?action=createNewWishlist"
+  data-title="ایجاد لیست علاقمندی‌ها"
+  data-label="نام لیست علاقمندی‌ها"
+  data-placeholder="افزودن نام"
+  data-cancel-text="انصراف"
+  data-create-text="ایجاد لیست علاقمندی‌ها"
+  data-length-text="لیست بسیار کوتاه است"
+>
+  <div
+    class="wishlist-modal modal fade"
+    
+      :class="{show: !isHidden}"
+    
+    tabindex="-1"
+    role="dialog"
+    aria-modal="true"
+  >
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">((title))</h5>
+          <button
+            type="button"
+            class="close"
+            @click="toggleModal"
+            data-dismiss="modal"
+            aria-label="Close"
+          >
+            <span aria-hidden="true">×</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="form-group form-group-lg">
+            <label class="form-control-label" for="input2">((label))</label>
+            <input
+              type="text"
+              class="form-control form-control-lg"
+              v-model="value"
+              id="input2"
+              :placeholder="placeholder"
+            />
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button
+            type="button"
+            class="modal-cancel btn btn-secondary"
+            data-dismiss="modal"
+            @click="toggleModal"
+          >
+            ((cancelText))
+          </button>
+
+          <button
+            type="button"
+            class="btn btn-primary"
+            @click="createWishlist"
+          >
+            ((createText))
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div 
+    class="modal-backdrop fade"
+    
+      :class="{in: !isHidden}"
+    
+  >
+  </div>
+</div>
+
+<!-- end C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/components/modals/create.tpl -->  <!-- begin C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/components/modals/login.tpl -->
+<div
+  class="wishlist-login"
+  data-login-text="ورود به حساب"
+  data-cancel-text="انصراف"
+>
+  <div
+    class="wishlist-modal modal fade"
+    
+      :class="{show: !isHidden}"
+    
+    tabindex="-1"
+    role="dialog"
+    aria-modal="true"
+  >
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">ورود به حساب</h5>
+          <button
+            type="button"
+            class="close"
+            @click="toggleModal"
+            data-dismiss="modal"
+            aria-label="Close"
+          >
+            <span aria-hidden="true">×</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p class="modal-text">برای ذخیره محصولات در لیست علاقمندی‌ها باید وارد حساب کاربری خود شوید.</p>
+        </div>
+        <div class="modal-footer">
+          <button
+            type="button"
+            class="modal-cancel btn btn-secondary"
+            data-dismiss="modal"
+            @click="toggleModal"
+          >
+            ((cancelText))
+          </button>
+
+          <a
+            type="button"
+            class="btn btn-primary"
+            :href="prestashop.urls.pages.authentication"
+          >
+            ((loginText))
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div
+    class="modal-backdrop fade"
+    
+      :class="{in: !isHidden}"
+    
+  >
+  </div>
+</div>
+
+<!-- end C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/components/modals/login.tpl -->  <!-- begin C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/components/toast.tpl -->
+<div
+    class="wishlist-toast"
+    data-rename-wishlist-text="نام لیست علاقمندی‌ها ویرایش شد!"
+    data-added-wishlist-text="محصول به لیست علاقمندی‌ها اضافه شد!"
+    data-create-wishlist-text="لیست علاقمندی‌ها ایجاد شد!"
+    data-delete-wishlist-text="لیست علاقمندی‌ها حذف شد!"
+    data-copy-text="اشتراک لینک کپی شد!"
+    data-delete-product-text="محصول حذف شد!"
+  ></div>
+<!-- end C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/components/toast.tpl --><!-- end C:\MAMP\htdocs\ps/modules/blockwishlist/views/templates/hook/displayHeader.tpl -->
+<!-- end module:blockwishlist/views/templates/hook/displayHeader.tpl -->
+
+      
+    </div>
+    <div class="row">
+      
+        
+      
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <p class="text-sm-center">
+          
+            <a href="https://www.prestashop-project.org/" target="_blank" rel="noopener noreferrer nofollow">
+              © 2025 -نرم‌افزار تجارت الکترونیک توسط PrestaShop™
+            </a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </footer>
+
+    </main>
+
+    
+      
+<template id="password-feedback">
+  <div
+    class="password-strength-feedback mt-1"
+    style="display: none;"
+  >
+    <div class="progress-container">
+      <div class="progress mb-1">
+        <div class="progress-bar" role="progressbar" value="50" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+    </div>
+    <script type="text/javascript" class="js-hint-password">
+              {"0":"\u0628\u0633\u06cc\u0627\u0631 \u0636\u0639\u06cc\u0641","1":"\u0636\u0639\u06cc\u0641","2":"\u0645\u062a\u0648\u0633\u0637","3":"\u0642\u0648\u06cc","4":"\u0628\u0633\u06cc\u0627\u0631 \u0642\u0648\u06cc","Straight rows of keys are easy to guess":"\u0631\u062f\u06cc\u0641\u200c\u0647\u0627\u06cc \u0645\u0633\u062a\u0642\u06cc\u0645 \u0627\u0632 \u06a9\u0644\u06cc\u062f\u0647\u0627 \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Short keyboard patterns are easy to guess":"\u0627\u0644\u06af\u0648\u0647\u0627\u06cc \u06a9\u0648\u062a\u0627\u0647 \u06a9\u06cc\u0628\u0648\u0631\u062f \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Use a longer keyboard pattern with more turns":"\u0627\u0632 \u0627\u0644\u06af\u0648\u06cc\u0647\u0627\u06cc \u0637\u0648\u0644\u0627\u0646\u06cc\u200c\u062a\u0631 \u06a9\u06cc\u0628\u0648\u0631\u062f \u0628\u0627 \u0686\u0631\u062e\u0634\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f","Repeats like \"aaa\" are easy to guess":"\u0639\u0628\u0627\u0631\u0627\u062a \u062a\u06a9\u0631\u0627\u0631\u06cc \u0645\u0627\u0646\u0646\u062f \u00abaaa\u00bb \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Repeats like \"abcabcabc\" are only slightly harder to guess than \"abc\"":"\u062d\u062f\u0633 \u0639\u0628\u0627\u0631\u0627\u062a \u062a\u06a9\u0631\u0627\u0631\u06cc \u0645\u0627\u0646\u0646\u062f \u00ababcabcabc\u00bb \u062a\u0646\u0647\u0627 \u06a9\u0645\u06cc \u0627\u0632 \u00ababc\u00bb \u0633\u062e\u062a\u200c\u062a\u0631 \u0647\u0633\u062a\u0646\u062f","Sequences like abc or 6543 are easy to guess":"\u062f\u0646\u0628\u0627\u0644\u0647\u200c\u0647\u0627\u06cc \u0645\u062b\u0644 abc \u06cc\u0627 6543 \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Recent years are easy to guess":"\u0633\u0627\u0644\u200c\u0647\u0627\u06cc \u0646\u0632\u062f\u06cc\u06a9 \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Dates are often easy to guess":"\u062a\u0627\u0631\u06cc\u062e\u200c\u0647\u0627 \u0627\u063a\u0644\u0628 \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","This is a top-10 common password":"\u0627\u06cc\u0646 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u062f\u0631 \u0644\u06cc\u0633\u062a \u06f1\u06f0 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0631\u0627\u06cc\u062c \u0627\u0633\u062a","This is a top-100 common password":"\u0627\u06cc\u0646 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u062f\u0631 \u0644\u06cc\u0633\u062a \u06f1\u06f0\u06f0 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0631\u0627\u06cc\u062c \u0627\u0633\u062a","This is a very common password":"\u0627\u06cc\u0646 \u06cc\u06a9 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0628\u0633\u06cc\u0627\u0631 \u0631\u0627\u06cc\u062c \u0627\u0633\u062a","This is similar to a commonly used password":"\u0627\u06cc\u0646 \u0634\u0628\u06cc\u0647 \u0628\u0647 \u06cc\u06a9 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0631\u0627\u06cc\u062c \u0627\u0633\u062a","A word by itself is easy to guess":"\u06cc\u06a9 \u06a9\u0644\u0645\u0647 \u0628\u0647 \u062a\u0646\u0647\u0627\u06cc\u06cc \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0627\u0633\u062a","Names and surnames by themselves are easy to guess":"\u0646\u0627\u0645 \u0648 \u0646\u0627\u0645\u200c\u062e\u0627\u0646\u0648\u062f\u0627\u06af\u06cc \u0628\u0647 \u062a\u0646\u0647\u0627\u06cc\u06cc \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0647\u0633\u062a\u0646\u062f","Common names and surnames are easy to guess":"\u0646\u0627\u0645 \u0648 \u0646\u0627\u0645 \u062e\u0627\u0646\u0648\u0627\u062f\u06af\u06cc\u200c\u0647\u0627\u06cc \u0631\u0627\u06cc\u062c \u0628\u0647 \u0631\u0627\u062d\u062a\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0632\u062f\u0646 \u0627\u0633\u062a","Use a few words, avoid common phrases":"\u0686\u0646\u062f \u06a9\u0644\u0645\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f\u060c \u0627\u0632 \u0639\u0628\u0627\u0631\u0627\u062a \u0631\u0627\u06cc\u062c \u067e\u0631\u0647\u06cc\u0632 \u06a9\u0646\u06cc\u062f","No need for symbols, digits, or uppercase letters":"\u0646\u06cc\u0627\u0632\u06cc \u0628\u0647 \u0633\u0645\u0628\u0644\u060c \u0639\u062f\u062f \u06cc\u0627 \u062d\u0631\u0648\u0641 \u0628\u0632\u0631\u06af \u0646\u06cc\u0633\u062a","Avoid repeated words and characters":"\u0627\u0632 \u06a9\u0644\u0645\u0627\u062a \u0648 \u06a9\u0627\u0631\u06a9\u062a\u0631\u0647\u0627\u06cc \u062a\u06a9\u0631\u0627\u0631\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0646\u06a9\u0646\u06cc\u062f","Avoid sequences":"\u0627\u0632 \u062a\u0648\u0627\u0644\u06cc \u067e\u0631\u0647\u06cc\u0632 \u06a9\u0646\u06cc\u062f","Avoid recent years":"\u062f\u0648\u0631\u06cc \u06a9\u0631\u062f\u0646 \u0627\u0632 \u0633\u0627\u0644\u200c\u0647\u0627\u06cc \u0627\u062e\u06cc\u0631","Avoid years that are associated with you":"\u0627\u0632 \u0633\u0627\u0644\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0627 \u0634\u0645\u0627 \u0645\u0631\u062a\u0628\u0637 \u0627\u0633\u062a \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0646\u06a9\u0646\u06cc\u062f","Avoid dates and years that are associated with you":"\u0627\u0632 \u062a\u0627\u0631\u06cc\u062e\u200c\u0647\u0627 \u0648 \u0633\u0627\u0644\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0627 \u0634\u0645\u0627 \u0645\u0631\u062a\u0628\u0637 \u0627\u0633\u062a \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0646\u06a9\u0646\u06cc\u062f","Capitalization doesn't help very much":"\u062d\u0631\u0648\u0641 \u0628\u0632\u0631\u06af \u06a9\u0645\u06a9 \u062e\u0627\u0635\u06cc \u0646\u0645\u06cc\u200c\u06a9\u0646\u062f","All-uppercase is almost as easy to guess as all-lowercase":"\u0627\u06af\u0631 \u0647\u0645\u0647 \u062d\u0631\u0648\u0641 \u0628\u0632\u0631\u06af \u0628\u0627\u0634\u0646\u062f \u0628\u0647 \u0627\u0646\u062f\u0627\u0632\u0647 \u0632\u0645\u0627\u0646\u06cc \u06a9\u0647 \u0647\u0645\u0647 \u062d\u0631\u0648\u0641 \u06a9\u0648\u0686\u06a9 \u0628\u0627\u0634\u0646\u062f \u0642\u0627\u0628\u0644 \u062d\u062f\u0633 \u0627\u0633\u062a","Reversed words aren't much harder to guess":"\u062d\u062f\u0633 \u06a9\u0644\u0645\u0627\u062a \u0628\u0631\u0639\u06a9\u0633 \u0647\u0645 \u062e\u06cc\u0644\u06cc \u0633\u062e\u062a \u0646\u06cc\u0633\u062a","Predictable substitutions like '@' instead of 'a' don't help very much":"\u062c\u0627\u06cc\u06af\u0632\u06cc\u0646\u200c\u0647\u0627\u06cc \u0642\u0627\u0628\u0644 \u062d\u062f\u0633\u06cc \u0645\u062b\u0644 \u00ab@\u00bb \u0628\u0647 \u062c\u0627\u06cc \u00aba\u00bb \u0647\u0645 \u06a9\u0645\u06a9 \u0632\u06cc\u0627\u062f\u06cc \u0646\u0645\u06cc\u200c\u06a9\u0646\u0646\u062f","Add another word or two. Uncommon words are better.":"\u06cc\u06a9 \u06cc\u0627 \u062f\u0648 \u06a9\u0644\u0645\u0647 \u062f\u06cc\u06af\u0631 \u0627\u0636\u0627\u0641\u0647 \u06a9\u0646\u06cc\u062f. \u06a9\u0644\u0645\u0627\u062a \u063a\u06cc\u0631 \u0645\u0639\u0645\u0648\u0644 \u0628\u0647\u062a\u0631\u0646\u062f."}
+          </script>
+
+    <div class="password-strength-text"></div>
+    <div class="password-requirements">
+      <p class="password-requirements-length" data-translation="کلمه‌ی عبوری بین %s و %s کارکتر وارد کنید">
+        <i class="material-icons">check_circle</i>
+        <span></span>
+      </p>
+      <p class="password-requirements-score" data-translation="حداقل امتیاز باید %s باشد">
+        <i class="material-icons">check_circle</i>
+        <span></span>
+      </p>
+    </div>
+  </div>
+</template>
+        <script type="text/javascript" src="https://ps.demo/themes/core.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/js/jquery/ui/jquery-ui.min.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/themes/classic/assets/js/theme.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/blockreassurance/views/dist/front.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/ps_emailsubscription/views/js/ps_emailsubscription.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/ps_emailalerts/js/mailalerts.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/ps_facebook/views/js/front/conversion-api.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/productcomments/views/js/jquery.rating.plugin.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/productcomments/views/js/productListingComments.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/blockwishlist/public/product.bundle.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/ps_shoppingcart/ps_shoppingcart.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/ps_searchbar/ps_searchbar.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/ps_imageslider/js/responsiveslides.min.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/ps_imageslider/js/homeslider.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/blockwishlist/public/graphql.js" ></script>
+  <script type="text/javascript" src="https://ps.demo/modules/blockwishlist/public/vendors.js" ></script>
+
+
+    
+
+    
+      
+    
+  </body>
+
+</html>
+
+<!-- end index.tpl -->
